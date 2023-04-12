@@ -1,4 +1,4 @@
-# angularForm-validation
+# AngularForm-validation
 This project explains about validations in Reactive and Template-driven forms in Angular. We will learn about the inbuilt as well as custom validations.
 
 # Article
